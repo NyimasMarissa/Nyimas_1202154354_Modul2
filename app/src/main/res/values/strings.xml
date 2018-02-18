@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Marissa Cake</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="chosen">Kamu pilih: </string>
+    <string name="nothing_clicked">Take Away</string>
+
+    <string-array name="tables_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+        <item>Meja 8</item>
+        <item>Meja 9</item>
+        <item>Meja 10</item>
+    </string-array>
+
+    <string-array name="namaMenu">
+        <item>French Apple Tart</item>
+        <item>Double Chocolate Cake</item>
+        <item>Strawberry Cheese Cake</item>
+        <item>Red Velvet</item>
+        <item>Tiramissu</item>
+        <item>Vanilla Fruit Cake</item>
+        <item>Mango Cake</item>
+        <item>Blueberry Cake</item>
+        <item>Rainbow Cake</item>
+    </string-array>
+
+    <string-array name="namaHarga">
+        <item>350000</item>
+        <item>400000</item>
+        <item>500000</item>
+        <item>650000</item>
+        <item>700000</item>
+        <item>500000</item>
+        <item>750000</item>
+        <item>450000</item>
+        <item>60000</item>
+    </string-array>
+
+    <string-array name="komposisi">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+    </string-array>
+</resources>
